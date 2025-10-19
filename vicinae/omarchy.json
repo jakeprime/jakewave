@@ -1,0 +1,19 @@
+{
+	"version": "1.0.0",
+	"appearance": "dark",
+  "name": "Omarchy",
+	"description": "Match system theme",
+  "icon": "./vaporwave-sun.png",
+  "palette": {
+    "background": "#200933",
+    "foreground": "#9EFFFF",
+    "red": "#FC199A",
+    "green": "#A5FF90",
+    "yellow": "#FAD000",
+    "orange": "#FAD000",
+    "blue": "#9963FF",
+    "purple": "#9963FF",
+    "magenta": "#FC199A",
+    "cyan": "#61E2FF"
+	}
+}
