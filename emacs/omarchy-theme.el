@@ -250,7 +250,7 @@
    `(org-agenda-date-weekend-today ((t (:inherit org-agenda-date-today :foreground unspecified))))
    `(org-agenda-done ((t (:inherit jake-script :foreground ,jake-purple-subtle :strike-through t))))
    `(org-agenda-structure ((t (:inherit (jake-script jake-pink-glow) :height 1.5 :foreground unspecified))))
-   `(org-block ((t (:inherit (fixed-pitch) :background ,jake-purple-dark ))))
+   `(org-block ((t (:inherit (fixed-pitch) :background ,jake-purple-dark :height 0.8 ))))
    `(org-block-begin-line ((t (:inherit (fixed-pitch jake-purple-subtle-glow) :foreground unspecified :background ,jake-purple-dark))))
    `(org-block-end-line ((t (:inherit (fixed-pitch) :foreground ,jake-purple-subtle :background ,jake-purple-dark))))
    `(org-checkbox ((t (:inherit jake-green-glow :family ,jake-fixed :foreground unspecified))))
